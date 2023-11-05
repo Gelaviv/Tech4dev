@@ -1,2 +1,3 @@
 # Tech4dev
-Github tutorial
+GitHub tutorial
+This is an on hands practical tutorial on how to use GitHub
